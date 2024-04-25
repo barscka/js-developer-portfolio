@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Advpl",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/advpl.png"
       },
       {
         "name": "SQL-Server",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/sqlserver.png"
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/docker.png"
       },
       {
         "name": "Protheus",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/protheus.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
