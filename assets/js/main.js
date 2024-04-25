@@ -28,8 +28,14 @@ function updateSoftSkills(profileData) {
 }
 
 function updateHardSkills(profileData) {
-    const hardSkills = document.getElementById('profile.skills.hardSkills')
-    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+    const hardSkills = document.getElementById('profile.skills.hardSkills');
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `
+        <li>
+            <a href="${skill.url}" target="_blank">
+                <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">
+            </a>
+        </li>
+    `).join('');
 }
 
 function updateLanguages(profileData) {

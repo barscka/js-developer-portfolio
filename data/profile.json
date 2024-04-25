@@ -9,27 +9,33 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/python.png",
+        "url": "https://www.python.org/"
       },
       {
         "name": "Advpl",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/advpl.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/advpl.png",
+        "url": "https://tdn.totvs.com/display/tec/AdvPL"
       },
       {
         "name": "SQL-Server",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/sqlserver.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/sqlserver.png",
+        "url": "https://www.microsoft.com/pt-br/sql-server/sql-server-2019"
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/docker.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/docker.png",
+        "url": "https://www.docker.com/"
       },
       {
         "name": "Protheus",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/protheus.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/protheus.png",
+        "url": "https://www.totvs.com/sistema-de-gestao/totvs-backoffice-linha-protheus/"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/barscka/js-developer-portfolio/main/data/imgs/postgresql.png",
+        "url": "https://www.postgresql.org/"
       }
     ],
     "softSkills": [
